@@ -25,7 +25,7 @@ def main():
     
 #    quit()
     
-# test test
+# 12 12
     iac_testing_antipatterns = IaCTestingAntipatterns(files, project_name)
 #    
     iac_testing_antipatterns.get_anti_pattern_list()
